@@ -58,24 +58,40 @@ nav a:hover{
 div{
 	width: 100%;
 	height: 100vh;
-}
+	justify-content: center;
+	  
+	}
 
 #seccion1{
 	margin-top: 10vh;	
 }
 div #seccion2, div #seccion4{
 	background-color: var(--cafecito);
+	justify-content: center;
+
 }
 h1{
+	margin-top: 10cm;
 	font-family: 'Josefin Sans', sans-serif;
 	font-size:xx-large;
 	text-align: center;
+	color: #ABC270;
+	text-shadow: 1px 1px #4E6C50;
 
 }
 p{
+	margin-top: 1cm;
+	margin-right: 20cm;
 	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, serif;
-	font-size: large;
+	font-size: 200;
 	font-weight: bold;
 	text-align: left;
 	line-height: normal;
+}
+#seccion2 img{
+	margin-top: 10cm;
+	width: 800px;
+	height: 800px;
+	border-top: 3cm;
+	
 }
