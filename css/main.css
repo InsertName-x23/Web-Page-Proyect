@@ -76,3 +76,16 @@ nav a:hover{
 	width: 100%;
 	height: 100vh;;
 }
+h1{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size:xx-large;
+	text-align: center;
+
+}
+p{
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, serif;
+	font-size: large;
+	font-weight: bold;
+	text-align: left;
+	line-height: normal;
+}
