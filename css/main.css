@@ -68,30 +68,35 @@ div{
 div #seccion2, div #seccion4{
 	background-color: var(--cafecito);
 	justify-content: center;
+	color: antiquewhite;
 
 }
 h1{
-	margin-top: 10cm;
 	font-family: 'Josefin Sans', sans-serif;
 	font-size:xx-large;
 	text-align: center;
 	color: #ABC270;
 	text-shadow: 1px 1px #4E6C50;
+	margin-top: 10cm;
 
 }
 p{
 	margin-top: 1cm;
-	margin-right: 20cm;
 	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, serif;
 	font-size: 200;
 	font-weight: bold;
 	text-align: left;
 	line-height: normal;
+	margin-right: 50cm;
 }
-#seccion2 img{
-	margin-top: 10cm;
-	width: 800px;
-	height: 800px;
-	border-top: 3cm;
+
+.imagenes{
+	margin-top: 12cm;
 	
 }
+
+.links{
+	margin-left: 5cm;
+	margin-top: 1cm;
+}
+
